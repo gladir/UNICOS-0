@@ -151,6 +151,10 @@ Voici la liste des différents fichiers proposés dans UNICOS-0 :
 			<td>Cette commande permet de supprimer un fichier.</td>
 		</tr>        
 		<tr>
+			<td><b>SDIFF.PAS</b></td>
+			<td>Cette commande permet de rechercher les différences côte à côte  du programme.</td>
+		</tr>				
+		<tr>
 			<td><b>SH.PAS</b></td>
 			<td>Cette commande permet de lancer l'interpréteur de commande UNIX.</td>
 		</tr>        
