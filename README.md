@@ -139,6 +139,10 @@ Voici la liste des différents fichiers proposés dans UNICOS-0 :
 			<td>Cette commande permet de recevoir l'entrée puis l'afrfichage sur un périphérique de sortie un écran 20 lignes à la fois.</td>
 		</tr>        
 		<tr>
+			<td><b>PRINTENV.PAS</b></td>
+			<td>Cette commande permet de demander le contenu des variables d'environnement du système d'exploitation.</td>
+		</tr>				
+		<tr>
 			<td><b>PWD.PAS</b></td>
 			<td>Cette commande permet d'afficher le chemin du répertoire courant.</td>
 		</tr>        
