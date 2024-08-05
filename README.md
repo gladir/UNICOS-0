@@ -171,6 +171,10 @@ Voici la liste des différents fichiers proposés dans UNICOS-0 :
 			<td>Cette commande permet de séparer un fichier en plusieurs fichiers. Cette commande est un équivalent de UNIX.</td>
 		</tr>        
 		<tr>
+			<td><b>STRINGS.PAS</b></td>
+			<td>Cette commande permet de trouver les chaines de caractères affichable dans un objet ou un fichier binaire.</td>
+		</tr>				
+		<tr>
 			<td><b>SUM.PAS</b></td>
 			<td>Cette commande permet d'afficher la sommation de chaque fichier.</td>
 		</tr>        
